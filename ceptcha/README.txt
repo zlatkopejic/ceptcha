@@ -12,6 +12,6 @@
 
 Look code of the index.php file. There is example how to use ceptcha.
 
-You can change some of the futures of ceptcha image in the method in picture.php file. 
-If you wan't to make biger change go to Captcha.php file or Captcha_Abstract.php
+You can change some of the features of ceptcha image in the method in picture.php file. 
+If you want to make bigger change go to Ceptcha.php file or Captcha_Abstract.php
  
