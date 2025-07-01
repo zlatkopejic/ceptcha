@@ -72,9 +72,9 @@ class Ceptcha_Abstract {
     protected $_green;
 
 /**
- * Define red blue 
- * 
- * @var mixed 
+ * Define blue color.
+ *
+ * @var mixed
  */
     
     protected $_blue; 
