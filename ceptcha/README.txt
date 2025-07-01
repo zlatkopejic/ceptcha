@@ -15,3 +15,13 @@ Look code of the index.php file. There is example how to use ceptcha.
 You can change some of the features of ceptcha image in the method in picture.php file. 
 If you want to make bigger change go to Ceptcha.php file or Captcha_Abstract.php
  
+
+******************************
+            TESTS
+******************************
+
+Install PHPUnit and run the test suite with:
+
+    phpunit tests
+
+The tests require the PHP GD extension to be available.
