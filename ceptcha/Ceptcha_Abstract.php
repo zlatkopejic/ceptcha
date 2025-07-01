@@ -56,6 +56,11 @@ class Ceptcha_Abstract {
     protected $_noiseDentesty;
 
 /**
+ * Define background color
+ */
+    protected $_background;
+
+/**
  * Define red color 
  * 
  * @var mixed 
