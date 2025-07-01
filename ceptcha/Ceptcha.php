@@ -45,15 +45,15 @@ public function text($font_size) {
     
     $fontColor = imagecolorallocate($this->_image, $red, $green, $blue);
     
-    $finall = $text{$random};
+    $finall = $text[$random];
     
     $niz.=$finall;
     
     $angle = rand(-30,30);//dont exist in abstract class
     
-    $separation = ($this->_width/5)-$font_size;
-    
-    $x = $o*$font_size;
+    $separation = ($this->_width/5) - $font_size;
+
+    $x = $o * $separation;
     
     
     $y = ($this->_height/2);

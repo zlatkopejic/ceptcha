@@ -264,7 +264,7 @@ public function text($font_size)
     
    
     
-    $finall = $text{$random};
+    $finall = $text[$random];
     
     $niz.=$finall;
     
